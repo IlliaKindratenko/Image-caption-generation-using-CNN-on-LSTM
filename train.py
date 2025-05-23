@@ -131,3 +131,4 @@ if __name__ == '__main__':
 
         # Оновлення scheduler на основі avg_loss
         scheduler.step(avg_loss)
+>>>>>>> d75ca5b77b9ca4ec7a8099c2e963b0f5cc4cd291
